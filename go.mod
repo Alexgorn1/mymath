@@ -1,3 +1,3 @@
-module github.com/Alexgorn1/mymath@v1.0.0
+module github.com/Alexgorn1/mymath
 
 go 1.19
