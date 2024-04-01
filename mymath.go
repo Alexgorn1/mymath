@@ -1,9 +1,6 @@
 package mymath
 
-import (
-	"math"
-	"fmt"
-)
+import "fmt"
 
 func Sqrt(x float64) float64 {
 	return math.Sqrt(x)
